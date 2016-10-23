@@ -1,0 +1,15 @@
+/Users/Ben/projectVR/Temp/bin/Debug/UnityEngine.dll
+/Users/Ben/projectVR/Temp/bin/Debug/UnityEditor.dll
+/Users/Ben/projectVR/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/Ben/projectVR/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/Ben/projectVR/Temp/bin/Debug/UnityEngine.Analytics.dll
+/Users/Ben/projectVR/Temp/bin/Debug/Google.ProtocolBuffers.dll
+/Users/Ben/projectVR/Temp/bin/Debug/Mono.Cecil.dll
+/Users/Ben/projectVR/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/Ben/projectVR/Temp/bin/Debug/Unity.DataContract.dll
+/Users/Ben/projectVR/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/Ben/projectVR/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/Ben/projectVR/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/Ben/projectVR/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/Ben/projectVR/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/Ben/projectVR/Temp/bin/Debug/Mono.Cecil.Mdb.dll
